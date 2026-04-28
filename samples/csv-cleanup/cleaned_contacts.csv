@@ -1,0 +1,6 @@
+name,email,phone,city,service,notes
+Example Roofing Co,sales@exampleroof.com,(555) 111-2222,Dallas,Roofing,duplicate row
+North Cleanup Llc,contact@northcleanup.test,(555) 333-4444,Fort Worth,Storm Cleanup,spacing issues
+Lone Star Tarping,,(555) 777-8888,Arlington,Tarping,missing email
+Bad Row,,,,,
+Dfw Restoration,info@dfwrestore.test,(555) 999-0000,Plano,Water Damage,mixed format
